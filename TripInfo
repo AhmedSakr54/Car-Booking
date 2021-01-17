@@ -1,0 +1,5 @@
+001,Cairo,Alexandria,1/4/2019,02:00,65,27,Bus,2,oneway
+002,Alexandria,Cairo,1/4/2019 2/4/2019,04:00,100,14,Bus,1,roundtrip
+003,Cairo,Aswan,5/5/2019,12:00,100,0,MiniBus,0,oneway
+004,Alexandria,Matrouh,10/5/2019 12/5/2019,16:00,150,2,limousine,0,roundtrip
+006,cairo,alex,2/2/2020 ,2:00,200,29,Bus,2,oneway
